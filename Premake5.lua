@@ -50,7 +50,7 @@ workspace("HelloWorld")
 			print("Done")
 		end
 	}
-
+	--Make sure to change "Hello" in the path to whatever project name you use
 	newaction {
 		trigger = "addDLLs",
 		description = "Adds necessary dlls to the .exe folder",
