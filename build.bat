@@ -14,7 +14,7 @@ echo Enter 'build.bat action' where action is one of the following:
 echo.
 echo compile           Will generate make file then compile using the make file.
 echo clean             Remove all binaries and generated files
-echo addDLLs		   Add all necessary dlls to executable
+echo addDLLs		       Add all necessary dlls to executable
 echo codelite          Generate CodeLite project files
 echo gmake             Generate GNU makefiles for POSIX, MinGW, and Cygwin
 echo gmake2            Generate GNU makefiles for POSIX, MinGW, and Cygwin
